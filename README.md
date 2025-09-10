@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I’m Esmaeil Alabdullah  
 
-<!--
-**esmaeil06/esmaeil06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```cpp
+#include <iostream>
+#include <vector>
+#include <string>
 
-Here are some ideas to get you started:
+class Developer {
+public:
+    std::string name = "Esmaeil Alabdullah";
+    std::string role = "Passionate Coder 💻";
+    std::vector<std::string> interests = {
+        "Coding", "Open Source", "Problem Solving", "Learning New Tech"
+    };
+    std::string current_focus = "Building cool projects & leveling up 🚀";
+    std::string fun_fact = "I debug with coffee ☕";
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    void say_hi() const {
+        std::cout << "Thanks for stopping by! Let's build something amazing together!" << std::endl;
+    }
+};
+
+int main() {
+    Developer me;
+    me.say_hi();
+    return 0;
+}
