@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👋 Hey, I'm [Your Name]  
+# 👋 Hey, I'm Esmaeil  
 🚀 Developer • 🎧 Music Enthusiast • 🐧 Linux Explorer  
 
 <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" alt="Hello Coders" width="60%"/>  
@@ -53,8 +53,8 @@
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150"/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="150"/>  
+<img src="https://github-readme-stats.vercel.app/api?username=esmaeil06&show_icons=true&theme=tokyonight" height="150"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esmaeil06&layout=compact&theme=tokyonight" height="150"/>  
 
 </div>
 
@@ -71,7 +71,7 @@
 ### 🌐 Connect with Me  
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/spxd007)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/esmaeil06)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
 
 ---
