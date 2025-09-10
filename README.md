@@ -51,12 +51,13 @@
 
 ### 📊 GitHub Analytics  
 
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=esmaeil06&show_icons=true&theme=tokyonight" height="150"/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esmaeil06&layout=compact&theme=tokyonight" height="150"/>  
-
-</div>
+<a href="https://github.com/Azael-Dev">
+  <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=esmaeil06&theme=github_dark"/>
+  <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=esmaeil06&theme=github_dark"/>
+  <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=esmaeil06&theme=github_dark&utcOffset=7"/>
+  <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=esmaeil06&theme=github_dark"/>
+  <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=esmaeil06&theme=github_dark"/>
+</a>
 
 ---
 
